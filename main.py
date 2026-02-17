@@ -64,4 +64,5 @@ if __name__ == '__main__':
     print(t10)
     t11 = torch.tensor(2)
     print(t11.item())
+    print("sqlrush test1")
 
